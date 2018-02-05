@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quizz app</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question1">One could say that concrete is artificial stone. It is a mixture of binding agent (cement), aggregates (usually stones and sand) and additives. Can you name three cement types?</string>
+    <string name="answer1q1">Hydraulic cement</string>
+    <string name="answer2q1">Bitumen</string>
+    <string name="answer3q1">Polymer cement</string>
+    <string name="answer4q1">Asphalt</string>
+    <string name="question2">Hydraulic cements need one special ingredient to start hardening. What is it?</string>
+    <string name="answer1q2">Carbon dioxide</string>
+    <string name="answer2q2">Water</string>
+    <string name="answer3q2">Sweat</string>
+    <string name="question3">Why is very often steel used in concrete?</string>
+    <string name="answer1q3">Most used concretes have low tensile strength. Steel, in other hand, has quite high tensile strength.</string>
+    <string name="answer2q3">To keep bad spirits away.</string>
+    <string name="answer3q3">It helps with the hardening of the cement.</string>
+    <string name="question4">Have you noticed concrete in your home? Please write which parts are made of concrete.</string>
+    <string name="hint">Write here if and then which parts of your home are made of concrete.</string>
+    <string name="check">Check</string>
+    <string name="answer1_all_correct">Yes, you are correct. Asphalt is the only one from the four which isn\'t cement. It's actually concrete with bitumen.</string>
+    <string name="feedback">qhepiruh pghp gqhrgoqhgiq hrh lhnwgh hgiwhghg agqk kkvavbjqvbqv  j jfb j sj w k Enam pole tulemuste jaotus üldse ühtlane, vaid palju rohkem on tulnud tulemusi, mis jäävad keskmiste väärtuste hulka. See on ka intuitiivne, sest summa 2 saamiseks on ainult üks võimalus, kuidas täringud peavad jääma: 1+1. Aga näiteks summa 7 saamiseks on variante lausa kuus: 1+6, 2+5, 3+4, 4+3, 5+2, 6+1.
+
+Samad ideed on kasutusel ka loteriides ja hasartmängudes. Näiteks Bingo Loto puhul on iga palli loosimine võrdvõimalik, kuid õnneratta keerutamisel on ratta peal väiksemaid summasid vähem kui suuremaid.</string>
+    <string name="feedBackQ1Correct">Answer for Question 1 is correct.\n</string>
+    <string name="feedBackQ1NotCorrect">Answer for Question 1 is not correct.\n</string>
+    <string name="feedBackQ2Correct">Answer for Question 2 is correct.\n</string>
+    <string name="feedBackQ2NotCorrect">Answer for Question 2 is not correct.\n</string>
+    <string name="feedBackQ3Correct">Answer for Question 3 is correct.\n</string>
+    <string name="feedBackQ3NotCorrect">Answer for Question 3 is not correct.\n</string>
+    <string name="feedBackQ4Pos">Awesome, you have noticed building materials around!</string>
+    <string name="feedBackQ4Neg">Haven\'t seen any concrete? Don\'t worry, one day you will.</string>
+</resources>
